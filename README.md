@@ -10,16 +10,16 @@ A simple Rock Paper Scissors game implemented in Java. This program allows a pla
     Navigate to the project directory in your terminal.
     Compile the Java source files using the following command:
 
-bash
+```bash
 
 javac rockpaperscissors/Main.java
-
+```
     Run the compiled program using:
 
-bash
+```bash
 
 java rockpaperscissors.Main
-
+```
     Follow the on-screen instructions to play the game.
 
 ## Gameplay
